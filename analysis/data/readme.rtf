@@ -1,0 +1,50 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww16980\viewh10560\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 This file contains data for \'93How are cities pledging net zero? A computational approach to analyzing subnational climate strategies\'94 by Sachdeva et al.\
+\
+January 2027\
+\
+Preprint available: https://arxiv.org/pdf/2112.11207.pdf\
+\
+Files:\
+net_zero_cities_full_dataset.csv\
+\
+Columns:
+\f1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 - name: actor name\
+- iso: 3-letter ISO country code\
+- entity_type: either City or Region. Counties (i.e., Alameda County, CA) are classified as a City.\
+- country: name of country\
+- region: one of 8 World Bank regions (East Asia & Pacific, North America, etc.).\
+- lat: latitude in decimal degrees\
+- lng: longitude in decimal degrees\
+- population: number of people, as reported by the native data_source or scraped from wikipedia. \
+- population_year: if given, usually scraped from wikipedia\
+- baseline_emissions: in tons CO2\
+- baseline_year: year of baseline_emissions\
+- raw_net_zero_commitment: text of raw net-zero commitment \
+- ghg_reduction_target: ghg reduction target as stated by actor\
+- target_year: year of target\
+- percent_reduction: percent reduction for emissions target\
+- initiatives_committed: international cooperative climate initiatives the actor is participating in, or data source (CDP, NAZCA) featuring actor.\
+- net_zero_target_status: \
+	1=  Target specified (specific target recorded in a reporting platform - includes a specific emissions reductions goal and target year)\
+	2 = Legislative commitment (target is enshired in formal legislation or policy)\
+	3 = Target under development (actor has ""commited to commit"" - e.g., joining an ICI without setting an individual target, or noting in a reporting platform that a net zero commitment is forthcoming). Likely just the NAZCA2020 actors.\
+	4= Net zero plan (Does the net zero target mention a plan for implementation (whether enshrined in formal policy document or otherwise(?))\
+	NA= no net zero target (e.g., has interim 2030 target that is aligned to a 1.5 or 2C pathway, but has not set a net zero target)"\
+- econ_wide_net_zero: 1 - is economy-wide\
+- pop_density: people per sq. km\
+- emis_per_capita: tons of reported ghg emissions per person\
+- text: raw, translated text from climate strategy and policy documents.\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f1 \cf0 \
+}

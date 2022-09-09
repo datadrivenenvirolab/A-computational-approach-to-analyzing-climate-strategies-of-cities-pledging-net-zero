@@ -1,0 +1,333 @@
+iso,entity_type,name
+DNK,City,Aalborg
+DNK,City,Aarhus
+GBR,Region,Aberdeenshire
+ITA,City,Acquappesa
+AUS,City,Adelaide
+DNK,City,Ærø
+USA,City,"Alameda, CA"
+ITA,City,Albairate
+USA,City,"Albany, NY"
+DNK,City,Albertslund
+ITA,City,Alessano
+JOR,City,Amman
+NLD,City,Amsterdam
+ITA,City,Andrano
+USA,City,"Ann Arbor, MI"
+USA,City,"Arlington, VA"
+ITA,City,Arzana
+USA,City,"Asheville, NC"
+USA,City,"Aspen, CO"
+BEL,City,Asse
+USA,City,"Atlanta, GA"
+NZL,City,Auckland
+USA,City,"Austin, TX"
+ITA,City,Averara
+ITA,City,Bagnoli di Sopra
+ITA,City,Bagnolo San Vito
+ESP,City,Balones
+ESP,City,Balsareny
+MDA,City,Balti
+ESP,City,Barcelona
+ITA,City,Basso Sulcis
+GBR,City,Bath & North East Somerset
+GBR,City,BCP Council
+BEL,City,Beersel
+ITA,City,Belfiore
+BRA,City,Belo Horizonte
+ITA,City,Belvì
+ESP,City,Beniardà
+USA,City,"Berkeley, CA"
+DEU,City,Berlin
+UKR,City,Bila Tserkva
+GBR,City,"Birmingham, UK"
+USA,City,"Blacksburg, VA"
+ITA,City,Bolzano
+TUR,City,Bornova
+USA,City,"Boston, MA"
+SWE,City,Botkyrka
+USA,City,"Boulder County, CO"
+USA,City,"Boulder, CO"
+ITA,City,Bracca
+BLR,City,Braslau
+NLD,City,"Breda, Netherlands"
+GBR,City,Bristol
+BEL,City,Brugge
+HUN,City,Budapest
+ARG,City,Buenos Aires
+USA,City,"Burlingame, CA"
+USA,City,"Burlington, VT"
+TUR,City,Bursa
+AUS,City,Byron Shire
+BIH,City,Cajnice
+CAN,City,"Calgary, AB"
+USA,City,"Cambridge, MA"
+ZAF,City,Cape Town
+ITA,City,Carona
+ITA,City,Cartura
+ITA,City,Casalserugo
+ITA,City,Cervia
+USA,City,"Charlotte, NC"
+ITA,City,Cheremule
+USA,City,"Chicago, IL"
+USA,City,"Cincinnati, OH"
+USA,City,"Cleveland, OH"
+USA,City,"Columbia, SC"
+USA,City,"Columbus, OH"
+BEL,City,Commune de Paliseul
+ITA,City,Comunità pioniera di Arborea
+DNK,City,Copenhagen
+ITA,City,Corsano
+USA,City,"Cupertino, CA"
+USA,City,"Dallas, TX"
+USA,City,"Davis, CA"
+NLD,City,Delft
+ESP,City,Dénia
+USA,City,"Denver, CO"
+BEL,City,Dilbeek
+ITA,City,Dossena
+IRL,City,Dublin
+GBR,City,Dundee
+ZAF,City,Durban
+BEL,City,Durbuy
+USA,City,"Eau Claire, WI"
+USA,City,"Edina, MN"
+CAN,City,"Edmonton, AB"
+ISR,City,Eilat ISRAEL
+ITA,City,Elini
+DNK,City,Elsinore
+USA,City,"Emeryville, CA"
+USA,City,"Erie County, NY"
+FIN,City,Espoo
+DEU,City,Essen
+USA,City,"Eugene, OR"
+USA,City,"Evanston, IL"
+ITA,City,Fermo
+USA,City,"Flagstaff, AZ"
+ITA,City,Fontanafredda
+USA,City,"Fort Collins, CO"
+DEU,City,Frankenthal
+DNK,City,Frederikshavn
+USA,City,"Fremont, CA"
+ITA,City,Gagliano del Capo
+ITA,City,Gela
+BEL,City,Genk
+ITA,City,Giave
+GBR,City,Glasgow
+ESP,City,Gorga
+SWE,City,Gothenburg
+ITA,City,Granze (Pd) - Italy
+GBR,City,Greater Manchester
+NLD,City,Groningen
+CAN,City,Guelph
+NLD,City,Haarlem
+CAN,City,Halifax
+BEL,City,Halle
+DEU,City,Hanau
+DEU,City,Hannover
+USA,City,"Hayward, CA"
+PSE,City,Hebron
+DEU,City,Heidelberg
+FIN,City,Helsinki
+BEL,City,Herbeumont
+BLR,City,Hlybokaje
+DNK,City,Høje-Taastrup
+CHN,City,Hong Kong
+USA,City,"Houston, TX"
+USA,City,"Indianapolis, IN"
+GRC,City,Ios (Aegean Islands)
+ITA,City,Isola D’Elba
+ITA,City,Isola di Fondra
+BEL,City,Izegem
+HUN,City,Jaszbereny Varosi Onkormanyzat
+HUN,City,Jászberény Városi Önkormányzat
+FIN,City,Joensuu
+ITA,City,Jolanda di Savoia
+LVA,City,Jurmala
+DEU,City,Kaiserslautern
+UGA,City,Kampala
+USA,Region,Kansas
+USA,City,"Kansas City, MO"
+GRC,City,Kéa (Aegean Islands)
+USA,City,"Knoxville, TN"
+BEL,City,Kortenaken
+GRC,City,Korthi (Aegean Islands)
+BGR,City,Kozloduy
+SWE,City,Kristianstad
+SVN,City,Krško
+BEL,City,Kruibeke
+SWE,City,Kungsbacka
+ZAF,City,KwaDukuza
+ESP,City,La Puebla de Cazalla
+BEL,City,Landen
+ESP,City,Las Torres de Cotillas
+GBR,City,Leeds
+BEL,City,Lennik
+SWE,City,Lessebo
+BEL,City,Leuven
+USA,City,"Lexington, MA"
+BEL,City,Liedekerke
+BEL,City,Linter
+GRC,City,Lipsi (Aagen Islands)
+PRT,City,Lisbon
+SVN,City,Ljubljana
+ITA,City,Loiri Porto San Paolo
+GBR,City,"London, UK"
+DEU,City,Lörrach
+USA,City,"Los Angeles, CA"
+USA,Region,Louisiana
+USA,City,"Louisville, KY"
+SWE,City,Luleå
+ITA,City,Macerata
+ITA,City,Macerata Campania
+BEL,City,Maldegem
+TUR,City,Maltepe
+GBR,City,Manchester
+ITA,City,Mantova
+USA,City,"Medford, MA"
+AUS,City,Melbourne
+LBN,City,Menjez
+ITA,City,Merlara
+MEX,City,Mexico City
+ITA,City,Mezzoldo
+CAN,City,Mississauga
+ITA,City,Moio de Calvi
+ESP,City,Monistrol de Calders
+ITA,City,Monrupino-Repentabor
+ITA,City,Monte di Malo
+ESP,City,Montejícar
+ITA,City,Monteleone Rocca Doria
+ITA,City,Monterenzio
+ITA,City,Morciano di Leuca
+AUS,City,Mornington Peninsula Shire
+ITA,City,Moruzzo
+PRT,City,Moura
+DEU,City,Münster
+PSE,City,Nablus
+BEL,City,Nevele
+USA,City,"New Bedford, MA"
+USA,City,"New Orleans, LA"
+USA,City,"New York City, NY"
+UKR,City,Nikopol
+TUR,City,Nilüfer
+GRC,City,Nisyros (Aegean Islands)
+USA,City,"Northampton, MA"
+ITA,City,Offida
+SWE,City,Orebro
+USA,City,"Orlando, FL"
+ITA,City,Ornica
+NOR,City,Oslo
+ITA,City,Ossana
+FIN,City,Oulu
+GBR,City,"Oxford, UK"
+ESP,City,Palma
+USA,City,"Palo Alto, CA"
+ITA,City,Pantelleria
+ITA,City,Paola
+FRA,City,Paris
+ITA,City,Patù
+ESP,City,Pedro Abad
+ITA,City,Pellizzano
+ESP,City,Peñarroya-Pueblonuevo
+USA,City,"Philadelphia, PA"
+ITA,City,Piazzatorre
+ITA,City,Piazzolo
+USA,City,"Piedmont, CA"
+USA,City,"Pittsburgh, PA"
+GBR,City,"Plymouth, UK"
+ITA,City,Pollina
+ITA,City,Pontecchio Polesine
+NOR,City,Porsgrunn
+USA,City,"Portland, OR"
+USA,City,"Providence, RI"
+BEL,Region,Region Zuid-West-Vlaanderen
+ISL,City,Reykjavík
+LVA,City,Riga
+ESP,City,Riner
+DNK,City,Ringkøbing-Skjern
+ITA,City,Roncobello
+ITA,City,Roveredo In Piano
+USA,City,"Sacramento, CA"
+BEL,City,Saint-Nicolas
+USA,City,"Salt Lake City, UT"
+ITA,City,Salve
+DNK,City,Samsø
+USA,City,"San Carlos, CA"
+USA,City,"San Francisco, CA"
+ITA,City,San Giorgio di Nogaro
+ESP,City,"San Isidro, Spain"
+USA,City,"San José, CA"
+ITA,City,San Pietro Viminario (Pd)
+ITA,City,San Polo d'Enza
+ITA,City,Sant'Anna Arresi
+ITA,City,Sant'Elena
+ITA,City,Sant'urbano
+ITA,City,Santa Brigida
+USA,City,"Santa Cruz, CA"
+ITA,City,Santa Maria Nuova
+CHL,City,Santiago
+USA,City,"Sarasota, FL"
+ITA,City,Sartirana Lomellina
+CAN,City,Saskatoon
+ITA,City,Senigallia
+ITA,City,Serre
+ITA,City,Seulo
+SGP,City,Singapore
+DNK,City,Skive
+SWE,City,Skövde
+GRC,City,Skyros Island
+ITA,City,Socchieve
+ITA,City,Solesino
+USA,City,"Somerville, MA"
+ITA,City,Somma Lombardo
+TJK,City,Somoniyon
+DNK,City,Sønderborg
+USA,City,"Sonoma, CA"
+GBR,City,South Tyneside
+CAN,City,"St. Catharines, ON"
+USA,City,"St. Louis, MO"
+SWE,City,Stockholm
+AUS,City,Sydney
+USA,City,"Tacoma, WA"
+TWN,City,Tainan
+ITA,City,Taleggio
+FIN,City,Tampere
+ESP,City,Tàrbena
+ESP,City,Teulada
+ESP,City,Tibi
+NLD,City,Tilburg
+ALB,City,Tirana
+JPN,City,Tokyo
+CAN,City,Toronto
+NOR,City,Trondheim
+PSE,City,Tulkarm
+ITA,City,Turin
+FIN,City,Turku
+SWE,City,Umeå
+ITA,City,Unione dei Comuni NET (Nord Est Torino)
+SWE,City,Uppsala
+USA,City,"Urbana, IL"
+ITA,City,Urbino
+NLD,City,Utrecht
+FIN,City,Vaasa
+ITA,City,Valtorta
+CAN,City,"Vancouver, BC"
+FIN,City,Vantaa
+SWE,City,Västervik
+SWE,City,Växjö
+ITA,City,Vedeseta
+CAN,City,Victoria
+LTU,City,Vilkaviškis
+ITA,City,Villa Literno
+ITA,City,Villa Verde
+ITA,City,Villanova Tulo
+ITA,City,Villasimius
+BEL,City,Ville de Nivelles
+ITA,City,Vimodrone
+ITA,City,Vogogna
+BEL,Region,Wallonie picarde Energie Positive
+USA,City,Washington D.C.
+BEL,City,Wezembeek-Oppem
+CAN,City,"Winnipeg, MB"
+AUS,City,Wollongong
+AUS,City,Wyndham
