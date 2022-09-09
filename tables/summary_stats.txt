@@ -1,0 +1,16 @@
+% latex table generated in R 3.6.2 by xtable 1.8-4 package
+% Mon Sep 20 20:21:19 2021
+\begin{table}[ht]
+\centering
+\begin{tabular}{lrrrrr}
+  \hline
+variable & mean & median & sd & min & max \\ 
+  \hline
+population & 424941.79 & 52299.00 & 1301283.92 & 88.00 & 13929286.00 \\ 
+  baseline year & 2005.54 & 2007.00 & 7.22 & 1990.00 & 2017.00 \\ 
+  target year & 2034.60 & 2030.00 & 14.01 & 2018.00 & 2051.00 \\ 
+  percent reduction & 70.38 & 80.00 & 40.21 & 0.00 & 504.00 \\ 
+  Emissions per capita & 6.79 & 5.07 & 6.76 & 0.00 & 65.15 \\ 
+   \hline
+\end{tabular}
+\end{table}

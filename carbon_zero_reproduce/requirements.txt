@@ -1,0 +1,9 @@
+tqdm
+pandas
+scikit-learn
+pandas
+seaborn
+networkx
+pygraphviz
+scipy
+statsmodels
